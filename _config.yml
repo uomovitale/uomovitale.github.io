@@ -1,0 +1,16 @@
+title: "UomoVitale - Hub risorse salute maschile"
+description: "Hub editoriale di risorse evidence-based sulla salute sessuale maschile italiana."
+url: "https://uomovitale.github.io"
+author: "Redazione UomoVitale"
+lang: it_IT
+
+# disable Jekyll processing of underscore folders if any
+include:
+  - _redirects
+
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+
+plugins: []
